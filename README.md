@@ -1,2 +1,5 @@
-# workspace-github-bootbot
-boot bot from boot.dev captures letter count for entier doc(book)
+# bookbot
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
+
+
